@@ -34,3 +34,9 @@ if verificaSenha(senha)==True:
     print("Senha válida!")
 else:
     print("Senha inválida!")
+
+print("Fim)
+
+
+#wnvwbvibvdfb
+#njfbevbhjbvjheb
